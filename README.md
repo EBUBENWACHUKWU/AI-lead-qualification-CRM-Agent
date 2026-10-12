@@ -66,8 +66,19 @@ All three lead categories were tested successfully in the development workflow.
 
 Working prototype tested locally using n8n. Public deployment and production use are not yet claimed.
 
-## Workflow Architecture
+## Screenshots & Demo
 
-The diagram below shows the n8n workflow for AI-powered lead qualification, conditional routing, Google Sheets record keeping, and automated Gmail notifications.
+### 1. Workflow Architecture
+![Workflow Architecture](workflow-architecture.png)
 
-![AI Lead Qualification CRM Workflow](workflow-architecture.png)
+### 2. AI Lead Qualification Results
+![AI Lead Qualification Results](lead-qualification-results.png)
+
+### 3. Google Sheets CRM
+![Google Sheets CRM](google-sheets-leads.png)
+
+### 4. Hot Lead Alert
+![Hot Lead Alert Email](hot-lead-alert.png)
+
+### 5. Warm Lead Follow-up
+![Warm Lead Follow-up Email](warm-lead-follow-up.png)
