@@ -65,3 +65,9 @@ All three lead categories were tested successfully in the development workflow.
 ## Project Status
 
 Working prototype tested locally using n8n. Public deployment and production use are not yet claimed.
+
+## Workflow Architecture
+
+The diagram below shows the n8n workflow for AI-powered lead qualification, conditional routing, Google Sheets record keeping, and automated Gmail notifications.
+
+![AI Lead Qualification CRM Workflow](workflow-architecture.png)
